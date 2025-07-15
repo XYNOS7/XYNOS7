@@ -8,18 +8,29 @@
 
 ---
 
-- 🔭 **Currently Brewing:** A full-stack web app that's cooler than your last browser tab. (Yep, that one.)
-- 🌱 **Currently Absorbing:** JavaScript, React, Node.js, MongoDB — basically trying to become a plant, but instead of water, I drink *Stack Overflow*.
-- 👯 **Looking to Collaborate On:** Any project that doesn’t crash on npm install. If your idea involves code, memes, or coffee-fueled debugging, I’m in!
-- 🤔 **Need Help With:** Turning my code into something that actually works on the first try (legend says it’s possible).
-- 💬 **Ask Me About:** How to break the app in 3 clicks or less. Also available for tech support, laughs, and dramatic monologues about semicolons.
-- 📫 **How to Reach Me:** 📧 *srijansinha021@gmail.com* (okay not real, but you get the vibe — just DM me or email me like it’s 2009).
-- 😄 **Pronouns:** Srijan / The Debugging Whisperer / Code Commander 🧑‍💻
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQxazRneDJwamNoNWc3N2YwbDdxZnM3eTBrOXI2Ym53NGp6eDZoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="160" />
+    </td>
+    <td>
+      
+- 🔭 **Currently Brewing:** A full-stack web app that's cooler than your last browser tab. (Yep, that one.)  
+- 🌱 **Currently Absorbing:** JavaScript, React, Node.js, MongoDB — basically trying to become a plant, but instead of water, I drink *Stack Overflow*.  
+- 👯 **Looking to Collaborate On:** Any project that doesn’t crash on npm install. If your idea involves code, memes, or coffee-fueled debugging, I’m in!  
+- 🤔 **Need Help With:** Turning my code into something that actually works on the first try (legend says it’s possible).  
+- 💬 **Ask Me About:** How to break the app in 3 clicks or less. Also available for tech support, laughs, and dramatic monologues about semicolons.  
+- 📫 **How to Reach Me:** 📧 *srijansinha021@gmail.com* (okay not real, but you get the vibe — just DM me or email me like it’s 2009).  
+- 😄 **Pronouns:** Srijan / The Debugging Whisperer / Code Commander 🧑‍💻  
 - ⚡ **Fun Fact:** I once coded for 6 hours straight... only to find a missing semicolon. The semicolon now pays rent in my brain.
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- Snake Game Repo View -->
+<!-- pacman -->
 <br clear="both">
 
 <picture>
@@ -119,9 +130,9 @@
 
 ---
 
-<!-- 🏆 GitHub Trophy Wall -->
+<!-- snake animation -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XYNOS7&theme=darkhub&no-frame=true&row=2&column=4" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 
