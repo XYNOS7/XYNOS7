@@ -99,6 +99,11 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
+### 🎵 Now Playing on Spotify
+[![Spotify](https://spotify-now-playing.vercel.app/api/now-playing)](https://open.spotify.com/user/31yj72zmldfmhnfqrhuaw5hvuqs4)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XYNOS7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=XYNOS7&theme=dark&hide_border=false)<br/>
