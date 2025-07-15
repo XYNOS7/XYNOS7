@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Srijan Sinha <img src="https://media1.tenor.com/m/zlUWUJOsY3AAAAAC/gintoki-gintama.gif" width="35" /></h1>
+<h1 align="center">Hi there, I'm Srijan Sinha <img src="https://media.tenor.com/UTxKJNlZilwAAAAj/luffy-monkey-d-luffy.gif" width="35" /></h1>
 
 <p align="center">
   <a href="https://github.com/your-username">
