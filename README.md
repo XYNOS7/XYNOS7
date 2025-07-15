@@ -38,7 +38,7 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 <!-- 🧠 Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+SRIJAN+SINHA;Full+Stack+Dev+%7C+ECE+Engineer+%7C+Code+Explorer;Building+Projects+with+Pixels+%26+Passion!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+SRIJAN+SINHA;Full+Stack+Dev+%7C+ECE+Engineer+%7C+Code+Explorer;Building+Projects+with+Pixels+%26+Passion!" alt="Typing SVG" />
 </p>
 
 ---
