@@ -43,8 +43,9 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XYNOS7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYNOS7&layout=compact&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=XYNOS7&color=blueviolet)
+![Codewars](https://img.shields.io/badge/Codewars-XYNOS7-red?style=flat&logo=codewars)
+![LeetCode](https://img.shields.io/badge/LeetCode-XYNOS7-yellow?style=flat&logo=leetcode)
 
 ---
 
