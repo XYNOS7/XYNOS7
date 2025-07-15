@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="160">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQxazRneDJwamNoNWc3N2YwbDdxZnM3eTBrOXI2Ym53NGp6eDZoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="160" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQxazRneDJwamNoNWc3N2YwbDdxZnM3eTBrOXI2Ym53NGp6eDZoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="210" />
     </td>
     <td>
       
