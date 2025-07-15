@@ -99,8 +99,9 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
-### 🎵 Now Playing on Spotify
-[![Spotify](https://spotify-now-playing-tau-seven.vercel.app/api/now-playing)](https://open.spotify.com/user/31yj72zmldfmhnfqrhuaw5hvuqs4)
+### 🎧 Now Playing on Spotify
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/now-playing)](https://open.spotify.com/user/31yj72zmldfmhnfqrhuaw5hvuqs4)
+
 
 ---
 
