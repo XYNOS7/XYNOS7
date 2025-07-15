@@ -1,12 +1,18 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" width="700"  />
+</p>
+
 <h1 align="center">Hi there, I'm Srijan Sinha <img src="https://media.tenor.com/UTxKJNlZilwAAAAj/luffy-monkey-d-luffy.gif" width="35" /></h1>
 
 <p align="center">
   <a href="https://github.com/your-username">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=700&lines=Full+Stack+Dev+%7C+ECE+Engineer+%7C+Code+Explorer;Building+Projects+with+Pixels+%26+Passion!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=700&lines=Full+Stack+Dev+%7C+ECE+Engineer+%7C+Code+Explorer;Building+Projects+with+Pixels+%26+Passion!" alt="Typing SVG" width="1000" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line" />
+</p>
 
 <table>
   <tr>
@@ -28,7 +34,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line" />
+</p>
 
 <!-- pacman -->
 <br clear="both">
@@ -87,25 +95,22 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://facebook.com/srijan.sinha.07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80px"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ig__sri_jan" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50px" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80px" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/srijansinha" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:srijansinha021@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50px" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80px" />
   </a>
 </p>
 
 
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line" />
+</p>
 
 ### 🎧 Now Playing on Spotify
 
@@ -116,7 +121,9 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line" />
+</p>
 
 ### 📈 Contribution Activity
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYNOS7&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -128,27 +135,40 @@
 ![Codewars](https://img.shields.io/badge/Codewars-XYNOS7-red?style=flat&logo=codewars)
 ![LeetCode](https://img.shields.io/badge/LeetCode-XYNOS7-yellow?style=flat&logo=leetcode)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line" />
+</p>
 
 <!-- snake animation -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line" />
+</p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XYNOS7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=XYNOS7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XYNOS7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=XYNOS7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=XYNOS7&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYNOS7&theme=dark&hide_border=false&layout=compact" />
+
+</div>
+
 
 ---
 
 ### ✍️ Daiily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
+<br/><br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="THE END" width="900"  />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=XYNOS7&icon=0&color=0)](https://visitcount.itsvg.in)
 
