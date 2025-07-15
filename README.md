@@ -1,23 +1,17 @@
 # 💫 Hi 👋, I'm SRIJAN SINHA
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Engineer || Electronics Engineer || Passionate for WEB-DEV**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **Currently Brewing:** A full-stack web app that's cooler than your last browser tab. (Yep, that one.)
+- 🌱 **Currently Absorbing:** JavaScript, React, Node.js, MongoDB — basically trying to become a plant, but instead of water, I drink *Stack Overflow*.
+- 👯 **Looking to Collaborate On:** Any project that doesn’t crash on npm install. If your idea involves code, memes, or coffee-fueled debugging, I’m in!
+- 🤔 **Need Help With:** Turning my code into something that actually works on the first try (legend says it’s possible).
+- 💬 **Ask Me About:** How to break the app in 3 clicks or less. Also available for tech support, laughs, and dramatic monologues about semicolons.
+- 📫 **How to Reach Me:** 📧 *srijansinha021@gmail.com* (okay not real, but you get the vibe — just DM me or email me like it’s 2009).
+- 😄 **Pronouns:** Srijan / The Debugging Whisperer / Code Commander 🧑‍💻
+- ⚡ **Fun Fact:** I once coded for 6 hours straight... only to find a missing semicolon. The semicolon now pays rent in my brain.
 
-## 🔗 I am a Content Creator. 😊😊
-
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
-
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srijan.sinha.07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig__sri_jan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijansinha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijansinha021@gmail.com) 
