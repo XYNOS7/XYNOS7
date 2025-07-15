@@ -1,7 +1,12 @@
-# 💫 Hi 👋, I'm SRIJAN SINHA
-**A passionate Software Engineer || Electronics Engineer || Passionate for WEB-DEV**
+<h1 align="center">Hi there, I'm Srijan Sinha <img src="https://media1.tenor.com/m/zlUWUJOsY3AAAAAC/gintoki-gintama.gif" width="35" /></h1>
 
-Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <a href="https://github.com/your-username">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=700&lines=Full+Stack+Dev+%7C+ECE+Engineer+%7C+Code+Explorer;Building+Projects+with+Pixels+%26+Passion!" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 - 🔭 **Currently Brewing:** A full-stack web app that's cooler than your last browser tab. (Yep, that one.)
 - 🌱 **Currently Absorbing:** JavaScript, React, Node.js, MongoDB — basically trying to become a plant, but instead of water, I drink *Stack Overflow*.
@@ -14,47 +19,10 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srijan.sinha.07) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig__sri_jan) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijansinha) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijansinha021@gmail.com) 
-
----
-
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-<!-- 🏆 GitHub Trophy Wall -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XYNOS7&theme=darkhub&no-frame=true&row=2&column=4" />
-</div>
-
----
-
-<!-- 🧠 Typing Animation Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+SRIJAN+SINHA;Full+Stack+Dev+%7C+ECE+Engineer+%7C+Code+Explorer;Building+Projects+with+Pixels+%26+Passion!" alt="Typing SVG" />
-</p>
-
----
-
-### 📈 Contribution Activity
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYNOS7&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🌍 Visitor Count & Batches
-![visitors](https://komarev.com/ghpvc/?username=XYNOS7&color=blue&style=flat)
-![Codewars](https://img.shields.io/badge/Codewars-XYNOS7-red?style=flat&logo=codewars)
-![LeetCode](https://img.shields.io/badge/LeetCode-XYNOS7-yellow?style=flat&logo=leetcode)
-
----
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -99,8 +67,56 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
+## 🌐 Socials:
+<p align="center">
+  <a href="https://facebook.com/srijan.sinha.07" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ig__sri_jan" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/srijansinha" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:srijansinha021@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50px" />
+  </a>
+</p>
+
+
+
+---
+
 ### 🎧 Now Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yj72zmldfmhnfqrhuaw5hvuqs4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yj72zmldfmhnfqrhuaw5hvuqs4&redirect=true)
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yj72zmldfmhnfqrhuaw5hvuqs4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yj72zmldfmhnfqrhuaw5hvuqs4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile" />
+  </a>
+</p>
+
+
+---
+
+### 📈 Contribution Activity
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYNOS7&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🌍 Visitor Count & Batches
+![visitors](https://komarev.com/ghpvc/?username=XYNOS7&color=blue&style=flat)
+![Codewars](https://img.shields.io/badge/Codewars-XYNOS7-red?style=flat&logo=codewars)
+![LeetCode](https://img.shields.io/badge/LeetCode-XYNOS7-yellow?style=flat&logo=leetcode)
+
+---
+
+<!-- 🏆 GitHub Trophy Wall -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XYNOS7&theme=darkhub&no-frame=true&row=2&column=4" />
+</div>
 
 
 ---
@@ -112,7 +128,7 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Daiily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
