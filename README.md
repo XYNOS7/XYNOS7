@@ -43,15 +43,13 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
-<!-- 📈 GitHub Activity Graph -->
 ### 📈 Contribution Activity
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=XYNOS7&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYNOS7&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<!-- 🗺️ Visitor Location Map -->
-### 🌍 Where in the World Are My Visitors From?
-![Visitor Map](https://visitormap.vercel.app/api/map?username=XYNOS7&size=550x270)
+### 🌍 Visitor Count
+![visitors](https://komarev.com/ghpvc/?username=XYNOS7&color=blue&style=flat)
 
 ---
 
