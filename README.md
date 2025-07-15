@@ -53,10 +53,6 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
-<!-- 🧊 3D Contribution Calendar -->
-<img src="https://github.com/XYNOS7/XYNOS7/blob/main/profile-3d-contrib/profile-night-green.svg" width="100%" />
-
----
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
