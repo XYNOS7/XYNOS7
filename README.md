@@ -43,6 +43,11 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XYNOS7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYNOS7&layout=compact&theme=radical)
+
+---
+
 ### 📈 Contribution Activity
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYNOS7&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
