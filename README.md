@@ -100,7 +100,7 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 ---
 
 ### 🎧 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/now-playing)](https://open.spotify.com/user/31yj72zmldfmhnfqrhuaw5hvuqs4)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yj72zmldfmhnfqrhuaw5hvuqs4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yj72zmldfmhnfqrhuaw5hvuqs4&redirect=true)
 
 
 ---
