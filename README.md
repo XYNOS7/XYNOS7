@@ -43,19 +43,15 @@ Email Me 👉 ✉️ **srijansinha021@gmail.com** For Collaboration/Project or A
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=XYNOS7&color=blueviolet)
-![Codewars](https://img.shields.io/badge/Codewars-XYNOS7-red?style=flat&logo=codewars)
-![LeetCode](https://img.shields.io/badge/LeetCode-XYNOS7-yellow?style=flat&logo=leetcode)
-
----
-
 ### 📈 Contribution Activity
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYNOS7&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🌍 Visitor Count
+### 🌍 Visitor Count & Batches
 ![visitors](https://komarev.com/ghpvc/?username=XYNOS7&color=blue&style=flat)
+![Codewars](https://img.shields.io/badge/Codewars-XYNOS7-red?style=flat&logo=codewars)
+![LeetCode](https://img.shields.io/badge/LeetCode-XYNOS7-yellow?style=flat&logo=leetcode)
 
 ---
 
